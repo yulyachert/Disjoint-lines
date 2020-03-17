@@ -1,0 +1,18 @@
+.field {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    position: relative;
+    margin: 50px auto;
+    background-color: #ffb900;
+}
+
+.edge {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 600px;
+    width: 600px;
+    stroke: black;
+    stroke-width: 3px;
+}

@@ -1,0 +1,13 @@
+.node {
+    min-width: 30px;
+    min-height: 30px;
+    border-radius: 50%;
+    position: absolute;
+    border: 3px solid black;
+    background-color: white;
+    padding: 5px;
+    cursor: move;
+    font-weight: bold;
+    color: black;
+    font-size: 20px;
+}
